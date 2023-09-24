@@ -5,14 +5,12 @@ This is an easy password generator which is capable of generating only strong pa
 here I have used random variable because randomly selecting characters make a password much stronger than it is 
 This method is used to eliminate BRUTE FORCING & DICTIONARY ATTACK.
 
-<p><u> Brute Forcing </u></p> :- 
-<br>
+<p><u> Brute Forcing </u>:-</p> 
 his approach is the least efficient, but it may be the only option when all else fails.
 An attacker may use a computer or a cluster of computers to attempt every possible variation. 
 The longer the password, the more difficult and time-consuming the cracking process becomes.
 
-<p><u> Dictionary Attack </u></p> :-
-<br>
+<p><u> Dictionary Attack </u>:-</p>
 To make brute-forcing a password easier, attackers can use dictionaries of common words and phrases and company names,
 sports teams, etc. This narrows down the list of potential password choices.
 In the past, users were recommended to change their password often (e.g., every 90 days) and to use complex passwords.
