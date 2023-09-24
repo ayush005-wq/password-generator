@@ -9,6 +9,7 @@ This method is used to eliminate BRUTE FORCING & DICTIONARY ATTACK.
 his approach is the least efficient, but it may be the only option when all else fails.
 An attacker may use a computer or a cluster of computers to attempt every possible variation. 
 The longer the password, the more difficult and time-consuming the cracking process becomes.
+<p></p>
 
 <p><u> Dictionary Attack </u>:-</p>
 To make brute-forcing a password easier, attackers can use dictionaries of common words and phrases and company names,
