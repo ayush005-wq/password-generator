@@ -2,7 +2,7 @@
 
 This is an easy password generator which is capable of generating only strong passwords
 
-here i have used random variable because randomly selecting characters make a password much stronger than it is 
+here I have used random variable because randomly selecting characters make a password much stronger than it is 
 This method is used to eliminate BRUTE FORCING & DICTIONARY ATTACK.
 
 <u> Brute Forcing </u> :-
@@ -17,11 +17,11 @@ In the past, users were recommended to change their password often (e.g., every 
 But, this led to users choosing passwords like !yoda2023#, which makes the job of a password cracker easier. 
 Once the base word, yoda, is guessed through a dictionary attack, trying a few different symbols and numbers can quickly crack the password.
 
-let's assume we need a 8 character password having atleast 1 Capital letter, 1 symbol & 1 number or integer
-in normal cases if a person generates a password the probability of cracking it must be 700 billion but since these passwords 
-are usually something close to you and easy to remember these form words that are usually used, like name of the user,DOB,AGE,
-Pet name or ny other personnel details which make it really easy for a hacker to brute force.
+let's assume we need an 8-character password having at least 1 Capital letter, 1 symbol & 1 number, or an integer
+in standard cases if a person generates a password the probability of cracking it must be 700 billion but since these passwords 
+are usually something close to you and easy to remember these form words that are typically used, like name of the user, DOB, AGE,
+Pet name or any other personnel details which make it easy for a hacker to brute force.
 
-This project generates random keywords which is very helpfull in giving you a perfect of more than 754 possibilities to hack 
+This project generates random keywords which is very helpful in giving you a perfect of more than 754 possibilities to hack 
 Good luck trying all possibilities ;)
 
