@@ -18,7 +18,7 @@ In the past, users were recommended to change their password often (e.g., every 
 But, this led to users choosing passwords like !yoda2023#, which makes the job of a password cracker easier. 
 Once the base word, yoda, is guessed through a dictionary attack, trying a few different symbols and numbers can quickly crack the password.
 <p></p>
-
+<p><ins><b>WORKING OF THE PROJECT</b></ins></p>
 let's assume we need an 8-character password having at least 1 Capital letter, 1 symbol & 1 number, or an integer
 in standard cases if a person generates a password the probability of cracking it must be 700 billion but since these passwords 
 are usually something close to you and easy to remember these form words that are typically used, like name of the user, DOB, AGE,
